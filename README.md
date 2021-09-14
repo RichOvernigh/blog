@@ -10,6 +10,8 @@ tagline: A simple and beautiful vuepress blog theme.
 #   margin: '9rem auto 2rem',
 #   background: '#fff',
 #   borderRadius: '1rem',
+#   RichOvernigh
+#   m5768507
 # }
 bgImageStyle: {
   height: '450px'
